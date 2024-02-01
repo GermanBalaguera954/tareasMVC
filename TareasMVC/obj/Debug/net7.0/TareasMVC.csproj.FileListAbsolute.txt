@@ -81,3 +81,15 @@ D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\T
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.sourcelink.json
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Controllers.HomeController.en.resources
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.csproj.GenerateResource.cache
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\bin\Debug\net7.0\en\TareasMVC.resources.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\en\TareasMVC.resources.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Views.Home.Index.en.resources
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\bin\Debug\net7.0\es\TareasMVC.resources.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Views.Home.Index.es.resources
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\es\TareasMVC.resources.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.RecursoCompartido.en.resources
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.RecursoCompartido.es.resources
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Views.Shared._TraduccionesJS.en.resources
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Views.Shared._TraduccionesJS.es.resources

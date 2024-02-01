@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
+      "PackagePath": "staticwebassets\\js\\utilidades.js"
+    },
+    {
       "Id": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
