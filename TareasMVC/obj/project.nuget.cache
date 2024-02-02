@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HQU6rhZBVGKwbNB+qy3uDaA9wIAdptEg55ccWIx5oHvLYgZTpdcwJvWobV1AblAnamVOPKG8u7D18+ZrfFgRwA==",
+  "dgSpecHash": "/8NNAfugVJERswCftWqnPXAtb3XyREfcjETW2N7v0Ga95Cn8vUcc8l5buG/ZfPs4yVVpjdIue6C+056oaQXVQA==",
   "success": true,
   "projectFilePath": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\TareasMVC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\germa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\germa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -12,7 +14,7 @@
     "C:\\Users\\germa\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.10\\microsoft.aspnetcore.cryptography.keyderivation.7.0.10.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.10\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\germa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\germa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\germa\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",

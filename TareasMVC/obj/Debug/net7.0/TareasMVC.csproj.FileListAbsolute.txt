@@ -93,3 +93,5 @@ D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\T
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.RecursoCompartido.es.resources
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Views.Shared._TraduccionesJS.en.resources
 D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\obj\Debug\net7.0\TareasMVC.Recursos.Views.Shared._TraduccionesJS.es.resources
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\bin\Debug\net7.0\AutoMapper.dll
+D:\PROGRAMACION UDEMY\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\TareasMVC\TareasMVC\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
