@@ -2,8 +2,8 @@
     tareaListadoViewModel.tareas.push(new tareaElementoListadoViewModel({ id: 0, titulo: '' }));
 
     $("[name=titulo-tarea]").last().focus();
-
 }
+
 async function manejarFocusoutTituloTarea(tarea) {
     const titulo = tarea.titulo();
     if (!titulo) {
@@ -112,6 +112,8 @@ async function manejarClickTarea(tarea) {
             new pasoViewModel({ ...paso, modoEdicion: false })
         )
     })
+
+    prepararArchivosAdjuntos(json.archivosAdjuntos);
 
     modalEditarTareaBootstrap.show();
 }

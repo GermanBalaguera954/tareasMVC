@@ -7,7 +7,6 @@ using TareasMVC.Servicios;
 namespace TareasMVC.Controllers
 {
     [Route("api/pasos")]
-
     public class PasosController : ControllerBase
     {
         private readonly ApplicationDbContext context;
