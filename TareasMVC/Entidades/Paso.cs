@@ -8,6 +8,5 @@
         public string Descripcion { get; set; }
         public bool Realizado { get; set; }
         public int Orden { get; set; }
-
     }
 }

@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 using System.Globalization;
+using System.Text.Json.Serialization;
 using TareasMVC;
 using TareasMVC.Servicios;
 
@@ -16,15 +17,19 @@ var politicaUsuariosAutenticados = new AuthorizationPolicyBuilder()
     .Build();
 
 // Add services to the container.
-builder.Services.AddControllersWithViews(opciones =>
+builder.Services.AddControllersWithViews(
+    opciones =>
 {
     opciones.Filters.Add(new AuthorizeFilter(politicaUsuariosAutenticados));
 }).AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
 .AddDataAnnotationsLocalization(
-opciones =>
+    opciones =>
 {
-    opciones.DataAnnotationLocalizerProvider = (_, factoria) =>
-        factoria.Create(typeof(RecursoCompartido));
+    opciones.DataAnnotationLocalizerProvider = (_, factoria) => factoria.Create(typeof(RecursoCompartido));
+}).AddJsonOptions(
+    opciones =>
+{
+    opciones.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
 });
 
 builder.Services.AddDbContext<ApplicationDbContext>(opciones => opciones.UseSqlServer("name=DefaultConnection"));

@@ -13,12 +13,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\Tareas.js",
-      "PackagePath": "staticwebassets\\js\\Tareas.js"
+      "Id": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\pasos.js",
+      "PackagePath": "staticwebassets\\js\\pasos.js"
     },
     {
       "Id": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\tareas.js",
+      "PackagePath": "staticwebassets\\js\\tareas.js"
     },
     {
       "Id": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",

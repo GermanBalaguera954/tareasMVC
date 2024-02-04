@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LBi0GYOkCOysOzzYvp8n17qW4f3ifecFvNRyI7fIStE=",
+  "Hash": "K9CkvBnByim+vkpCt40zT5h45jzI0SFFL4qpAUy2AF0=",
   "Source": "TareasMVC",
   "BasePath": "_content/TareasMVC",
   "Mode": "Default",
@@ -93,6 +93,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\pasos.js",
+      "SourceId": "TareasMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\",
+      "BasePath": "_content/TareasMVC",
+      "RelativePath": "js/pasos.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pasos.js"
+    },
+    {
       "Identity": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\site.js",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
@@ -112,12 +131,12 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\Tareas.js",
+      "Identity": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\tareas.js",
       "SourceId": "TareasMVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\",
       "BasePath": "_content/TareasMVC",
-      "RelativePath": "js/Tareas.js",
+      "RelativePath": "js/tareas.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,7 +147,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\Tareas.js"
+      "OriginalItemSpec": "wwwroot\\js\\tareas.js"
     },
     {
       "Identity": "D:\\PROGRAMACION UDEMY\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\TareasMVC\\TareasMVC\\wwwroot\\js\\utilidades.js",
